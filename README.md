@@ -1,2 +1,1 @@
-# Sorting-Visualizer
-Visualizes how a sorting algorithm works.
+# Sorting_Visualizer110.github.io
