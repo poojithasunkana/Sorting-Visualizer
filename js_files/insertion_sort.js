@@ -1,7 +1,7 @@
 
 
 async function insertion_sort_run(){
-
+	//code 	
 	let eles=document.querySelectorAll(".bar");
 	console.log(eles);
 	let n=eles.length;
